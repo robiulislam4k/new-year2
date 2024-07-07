@@ -1,0 +1,228 @@
+ /* banner style+ backgroude */
+ .banner{
+width: 1320px;
+height: 600px;
+border: 2px solid red;
+background-image: url("/new-year-offer-resources/images/Banner\ Image.png");
+background-position: center;
+background-color: rgb(0,0,0,0.4);
+background-repeat: no-repeat;
+background-size: cover;
+margin: 0 auto;
+margin-top: 50px;
+border-radius: 2px;
+background-blend-mode: overlay;
+
+  }
+  /* banner content style div er vitore */
+.banner-contant{
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    /* font-size: 72px; */
+}
+h1{
+    font-size: 72px;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+p{
+    font-size: 52px;
+    font-weight: 700;
+}
+.banner50{
+    /* display: flex;
+     background-image: url('/new-year-offer-resources/images/New\ Year\ Photo.png'); 
+    /* width: 802.9px;
+    height: 478px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; */
+    /* border: 2px solid red; */
+    /* text-align: center; */
+    /* align-items: center; */
+    /* flex-direction: column; */
+    /* justify-content: center; */ 
+    background-image: url('/new-year-offer-resources/images/New\ Year\ Photo.png'); 
+    color: #FFFFFF;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-items: center;
+    height: 618px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+/* .banner50-styl{
+font-weight: bold;
+font-size: 48px;
+} */
+.sky{
+    font-weight: bold;
+font-size: 48px;
+/* width: 410px;
+height: 53.32px; */
+text-align: center;
+
+align-items: center;
+display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.yes{
+    font-weight: medium;
+    font-size: 24px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.text{
+    color: red;
+    font-weight: bolder;
+    font-size: 40px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+/* welcome part */
+.welcome{
+    background-image: url('/new-year-offer-resources/images/Vectorrr.png');
+    color: #FFFFFF;
+    display: flex;
+    background-blend-mode: overlay;
+    background-color: rgb(0,0,0,0.4);
+    flex-direction: column;
+    justify-content: last baseline;
+    align-items: flex-start;
+   margin-top: 100px;
+    width: 1320px;
+    height: 600px;
+}
+.party{
+    font-size: 24px;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: center; */
+    align-items: center;
+    margin-left: 70px;
+    width: 681px;
+}
+.mid{
+    font-size: 18px;
+    font-weight: regular;
+    flex-direction: column;
+    justify-content: left;
+    text-align: left;
+    margin-left: 70px;
+}
+/* buttom */
+.now{
+    /* color: white; */
+    font-weight: bold;
+    font-size: 20px;
+    width: 103px;
+    height: 24.72px;
+    margin: 70px;
+}
+.place{
+    background-color: antiquewhite;
+    background-size: cover;
+    width: 1320px;
+    height: 482px;
+    background-position: center;
+/* background-color: rgb(0,0,0,0.4); */
+/* background-repeat: no-repeat; */
+background-size: cover;
+margin-top: 70px;
+/* margin-top: 50px;
+border-radius: 2px; */
+display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.bd{
+    font-weight: 900;
+    font-size: 50px;
+}
+.ttt{
+    font-weight: 900;
+    font-size: 50px;
+    margin-top: 70px;
+}
+.hire{
+    color: rgba(255, 0, 0, 1);
+    width: 167px;
+    height: 56px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.robin{
+    font-weight: medium;
+    font-size: 20px;
+    text-align: left;
+    /* width: 207px;
+    height: 29px;
+} */
+}
+/* .awal{
+    font-weight: regular;
+    font-size: 2opx;
+    text-align: right;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+} */
+ .lily{
+    display: flex;
+    font-weight: bold;
+    font-size: 48px;
+    text-align: right;
+    align-items: right;
+    
+ }
+ .robi{
+background-image: url('/new-year-offer-resources/images/Ellipse\ 1.png');
+display: flex;
+/* background-repeat: space; */
+background-position: center;
+background-repeat: no-repeat;
+border-radius: 5px red;
+box-shadow: 10px;
+
+
+ }
+ .lll{
+    text-align:left;
+    font-size: small;
+
+ }
+ /* .fata{
+    background-image: url('/new-year-offer-resources/images/Rectangle\ 2.png') url('/new-year-offer-resources/images/Group\ 75.png');
+    width: 1320px;
+    height: 229px;
+ } */
+  .fata{
+/* width: 1320px; */
+height: 1164px;
+/* display: flex; */
+margin: 80px;
+display: inline;
+padding: 5px;
+border-radius: 20px;
+row-gap: 15px;
+
+  }
